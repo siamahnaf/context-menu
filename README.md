@@ -9,7 +9,7 @@
 # @siamf/context-menu
 React hook and components for displaying fully UI controlled context menu.
 
-This is project is fork of [use-context-menu](https://github.com/bvaughn/use-context-menu) with react 19 support.
+This project is fork of [use-context-menu](https://github.com/bvaughn/use-context-menu) with react 19 support.
 
 # Installation
 

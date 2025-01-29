@@ -1,6 +1,6 @@
 {
   "name": "@siamf/context-menu",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React hook for displaying configure able context menu",
   "homepage": "https://github.com/siamahnaf/siamf-upload",
   "main": "dist/cjs/index.js",
