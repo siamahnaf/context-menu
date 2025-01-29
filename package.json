@@ -1,12 +1,13 @@
 {
   "name": "@siamf/context-menu",
-  "version": "1.0.3",
+  "version": "1.2.0",
   "description": "React hook for displaying configure able context menu",
   "homepage": "https://github.com/siamahnaf/siamf-upload",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
-    "dist"
+    "dist",
+    "style.css"
   ],
   "scripts": {
     "build": "rimraf dist && npm run build:esm && npm run build:cjs",
